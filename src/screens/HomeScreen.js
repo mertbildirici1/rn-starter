@@ -24,7 +24,7 @@ const HomeScreen = props => {
 
 const styles = StyleSheet.create({
   text: {
-    fontSize: 20
+    fontSize: 15
   },
   header: {
     fontSize: 45
